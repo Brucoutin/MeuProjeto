@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BreeSerif-Regular.ttf",
+      "sha1": "f19ca8ca7c6f79883f331cf66f4a7d4bc5651a42"
+    },
+    {
+      "path": "assets/fonts/Sriracha-Regular.ttf",
+      "sha1": "0e5f520a63ae1e48db79450b8921f3cccd6c5080"
+    }
+  ]
+}
